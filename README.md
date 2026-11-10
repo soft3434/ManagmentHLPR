@@ -1,0 +1,2 @@
+# ManagmentHLPR
+Windows helper.
